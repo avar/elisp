@@ -19,3 +19,6 @@
 [submodule "browse-kill-ring"]
 	path = browse-kill-ring
 	url = git://github.com/emacsmirror/browse-kill-ring.git
+[submodule "nopaste"]
+	path = nopaste
+	url = git://github.com/avar/nopaste.git
