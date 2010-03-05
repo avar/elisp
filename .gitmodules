@@ -16,3 +16,6 @@
 [submodule "shellarchive"]
 	path = shellarchive
 	url = git://repo.or.cz/ShellArchive.git
+[submodule "browse-kill-ring"]
+	path = browse-kill-ring
+	url = git://github.com/emacsmirror/browse-kill-ring.git
