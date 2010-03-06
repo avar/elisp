@@ -22,3 +22,6 @@
 [submodule "nopaste"]
 	path = nopaste
 	url = git://github.com/avar/nopaste.git
+[submodule "clojure-mode"]
+	path = clojure-mode
+	url = git://github.com/technomancy/clojure-mode.git
