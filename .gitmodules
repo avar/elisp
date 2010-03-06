@@ -12,7 +12,7 @@
 	url = git://gitorious.org/magit/mainline.git
 [submodule "slime"]
 	path = slime
-	url = git://github.com/nablaone/slime.git
+	url = git://github.com/technomancy/slime.git
 [submodule "shellarchive"]
 	path = shellarchive
 	url = git://repo.or.cz/ShellArchive.git
