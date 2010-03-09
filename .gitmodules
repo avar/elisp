@@ -28,3 +28,6 @@
 [submodule "swank-clojure"]
 	path = swank-clojure
 	url = git://github.com/jochu/swank-clojure.git
+[submodule "js2-mode"]
+	path = js2-mode
+	url = git://github.com/irfn/js2-mode.git
