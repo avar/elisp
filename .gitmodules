@@ -31,3 +31,6 @@
 [submodule "js2-mode"]
 	path = js2-mode
 	url = git://github.com/irfn/js2-mode.git
+[submodule "markdown-mode"]
+	path = markdown-mode
+	url = git://jblevins.org/git/markdown-mode.git
