@@ -49,3 +49,6 @@
 [submodule "window-number"]
 	path = window-number
 	url = git://github.com/emacsmirror/window-number.git
+[submodule "xs-mode"]
+	path = xs-mode
+	url = git://github.com/emacsmirror/xs-mode.git
