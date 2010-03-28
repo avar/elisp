@@ -34,3 +34,6 @@
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = git://jblevins.org/git/markdown-mode.git
+[submodule "ibuffer-git"]
+	path = ibuffer-git
+	url = git://github.com/jrockway/ibuffer-git
