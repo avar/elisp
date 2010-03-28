@@ -52,3 +52,6 @@
 [submodule "xs-mode"]
 	path = xs-mode
 	url = git://github.com/emacsmirror/xs-mode.git
+[submodule "yaml-mode"]
+	path = yaml-mode
+	url = git://github.com/yoshiki/yaml-mode.git
