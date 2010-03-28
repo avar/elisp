@@ -43,3 +43,6 @@
 [submodule "tt-mode"]
 	path = tt-mode
 	url = git://github.com/davorg/tt-mode.git
+[submodule "twittering-mode"]
+	path = twittering-mode
+	url = git://github.com/hayamiz/twittering-mode.git
