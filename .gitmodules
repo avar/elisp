@@ -37,3 +37,6 @@
 [submodule "ibuffer-git"]
 	path = ibuffer-git
 	url = git://github.com/jrockway/ibuffer-git
+[submodule "php-mode"]
+	path = php-mode
+	url = git://github.com/ieure/php-mode-el.git
