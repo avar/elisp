@@ -55,3 +55,6 @@
 [submodule "yaml-mode"]
 	path = yaml-mode
 	url = git://github.com/yoshiki/yaml-mode.git
+[submodule "nterm"]
+	path = nterm
+	url = git://github.com/emacsmirror/nterm.git
