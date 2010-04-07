@@ -58,3 +58,9 @@
 [submodule "nterm"]
 	path = nterm
 	url = git://github.com/emacsmirror/nterm.git
+[submodule "clojure-contrib"]
+	path = clojure-contrib
+	url = git://github.com/richhickey/clojure-contrib.git
+[submodule "clojure"]
+	path = clojure
+	url = git://github.com/richhickey/clojure.git
