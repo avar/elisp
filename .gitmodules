@@ -64,3 +64,6 @@
 [submodule "clojure"]
 	path = clojure
 	url = git://github.com/richhickey/clojure.git
+[submodule "emacs_chrome"]
+	path = emacs_chrome
+	url = git://github.com/stsquad/emacs_chrome.git
