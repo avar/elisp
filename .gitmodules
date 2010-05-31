@@ -65,3 +65,6 @@
 [submodule "emacs_chrome"]
 	path = emacs_chrome
 	url = git://github.com/stsquad/emacs_chrome.git
+[submodule "po-mode"]
+	path = po-mode
+	url = git://github.com/emacsmirror/po-mode.git
