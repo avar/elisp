@@ -68,3 +68,6 @@
 [submodule "po-mode"]
 	path = po-mode
 	url = git://github.com/emacsmirror/po-mode.git
+[submodule "git-commit-mode"]
+	path = git-commit-mode
+	url = git://github.com/rafl/git-commit-mode.git
