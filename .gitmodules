@@ -10,6 +10,7 @@
 [submodule "magit"]
 	path = magit
 	url = git://github.com/philjackson/magit.git
+	branch = master
 [submodule "slime"]
 	path = slime
 	url = git://github.com/technomancy/slime.git
@@ -22,6 +23,7 @@
 [submodule "nopaste"]
 	path = nopaste
 	url = git://github.com/avar/nopaste.git
+	branch = master
 [submodule "clojure-mode"]
 	path = clojure-mode
 	url = git://github.com/technomancy/clojure-mode.git
@@ -43,12 +45,15 @@
 [submodule "twittering-mode"]
 	path = twittering-mode
 	url = git://github.com/hayamiz/twittering-mode.git
+	branch = master
 [submodule "window-number"]
 	path = window-number
 	url = git://github.com/emacsmirror/window-number.git
+	branch = emacswiki
 [submodule "xs-mode"]
 	path = xs-mode
 	url = git://github.com/emacsmirror/xs-mode.git
+	branch = emacswiki
 [submodule "yaml-mode"]
 	path = yaml-mode
 	url = git://github.com/yoshiki/yaml-mode.git
@@ -59,6 +64,7 @@
 [submodule "clojure-contrib"]
 	path = clojure-contrib
 	url = git://github.com/richhickey/clojure-contrib.git
+	branch = master
 [submodule "clojure"]
 	path = clojure
 	url = git://github.com/richhickey/clojure.git
@@ -71,3 +77,4 @@
 [submodule "git-commit-mode"]
 	path = git-commit-mode
 	url = git://github.com/rafl/git-commit-mode.git
+	branch = master
