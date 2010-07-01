@@ -1,6 +1,7 @@
 [submodule "cperl-mode"]
 	path = cperl-mode
 	url = git://github.com/jrockway/cperl-mode
+	branch = mx-declare
 [submodule "eproject"]
 	path = eproject
 	url = git://github.com/jrockway/eproject
@@ -27,6 +28,7 @@
 [submodule "clojure-mode"]
 	path = clojure-mode
 	url = git://github.com/technomancy/clojure-mode.git
+	branch = master
 [submodule "swank-clojure"]
 	path = swank-clojure
 	url = git://github.com/jochu/swank-clojure.git
@@ -61,6 +63,7 @@
 [submodule "nterm"]
 	path = nterm
 	url = git://github.com/emacsmirror/nterm.git
+	branch = web-import
 [submodule "clojure-contrib"]
 	path = clojure-contrib
 	url = git://github.com/richhickey/clojure-contrib.git
