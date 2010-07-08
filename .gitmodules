@@ -81,3 +81,6 @@
 	path = git-commit-mode
 	url = git://github.com/rafl/git-commit-mode.git
 	branch = master
+[submodule "pod-mode"]
+	path = pod-mode
+	url = git://github.com/renormalist/emacs-pod-mode.git
