@@ -84,9 +84,12 @@
 [submodule "pod-mode"]
 	path = pod-mode
 	url = git://github.com/renormalist/emacs-pod-mode.git
+	branch = master
 [submodule "tap-mode"]
 	path = tap-mode
 	url = git://github.com/renormalist/emacs-tap-mode.git
+	branch = master
 [submodule "perlmod"]
 	path = perlmod
 	url = git://github.com/rafl/emacs-perlmod.git
+	branch = master
