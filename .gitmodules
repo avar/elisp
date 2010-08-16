@@ -5,6 +5,7 @@
 [submodule "eproject"]
 	path = eproject
 	url = git://github.com/jrockway/eproject
+    branch = master
 [submodule "eslide"]
 	path = eslide
 	url = git://github.com/jrockway/eslide
@@ -71,9 +72,11 @@
 [submodule "clojure"]
 	path = clojure
 	url = git://github.com/richhickey/clojure.git
+    branch = master
 [submodule "emacs_chrome"]
 	path = emacs_chrome
 	url = git://github.com/stsquad/emacs_chrome.git
+    branch = master
 [submodule "po-mode"]
 	path = po-mode
 	url = git://github.com/emacsmirror/po-mode.git
