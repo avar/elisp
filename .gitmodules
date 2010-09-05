@@ -99,3 +99,6 @@
 [submodule "clhs"]
 	path = clhs
 	url = git://github.com/emacsmirror/clhs.git
+[submodule "htmlize"]
+	path = htmlize
+	url = git://github.com/emacsmirror/htmlize.git
