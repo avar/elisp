@@ -12,7 +12,7 @@
 [submodule "magit"]
 	path = magit
 	url = git://github.com/philjackson/magit.git
-	branch = master
+	branch = key-groups
 [submodule "slime"]
 	path = slime
 	url = git://github.com/technomancy/slime.git
