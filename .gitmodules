@@ -102,6 +102,7 @@
 [submodule "htmlize"]
 	path = htmlize
 	url = git://github.com/emacsmirror/htmlize.git
+    branch = web-import
 [submodule "lua-mode"]
 	path = lua-mode
 	url = git://github.com/emacsmirror/lua-mode.git
