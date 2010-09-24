@@ -109,3 +109,6 @@
 [submodule "visible-mark"]
 	path = visible-mark
 	url = git://github.com/emacsmirror/visible-mark.git
+[submodule "org-mode"]
+	path = org-mode
+	url = git://repo.or.cz/org-mode.git
