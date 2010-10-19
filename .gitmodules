@@ -1,14 +1,14 @@
 [submodule "cperl-mode"]
 	path = cperl-mode
-	url = http://github.com/jrockway/cperl-mode
+	url = http://github.com/jrockway/cperl-mode.git
 	branch = mx-declare
 [submodule "eproject"]
 	path = eproject
-	url = http://github.com/jrockway/eproject
+	url = http://github.com/jrockway/eproject.git
     branch = master
 [submodule "eslide"]
 	path = eslide
-	url = http://github.com/jrockway/eslide
+	url = http://github.com/jrockway/eslide.git
 [submodule "magit"]
 	path = magit
 	url = http://github.com/philjackson/magit.git
@@ -38,7 +38,7 @@
 	url = http://github.com/defunkt/markdown-mode.git
 [submodule "ibuffer-git"]
 	path = ibuffer-git
-	url = http://github.com/jrockway/ibuffer-git
+	url = http://github.com/jrockway/ibuffer-git.git
 [submodule "php-mode"]
 	path = php-mode
 	url = http://github.com/ieure/php-mode-el.git
