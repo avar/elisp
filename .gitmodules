@@ -1,114 +1,114 @@
 [submodule "cperl-mode"]
 	path = cperl-mode
-	url = git://github.com/jrockway/cperl-mode
+	url = http://github.com/jrockway/cperl-mode
 	branch = mx-declare
 [submodule "eproject"]
 	path = eproject
-	url = git://github.com/jrockway/eproject
+	url = http://github.com/jrockway/eproject
     branch = master
 [submodule "eslide"]
 	path = eslide
-	url = git://github.com/jrockway/eslide
+	url = http://github.com/jrockway/eslide
 [submodule "magit"]
 	path = magit
-	url = git://github.com/philjackson/magit.git
+	url = http://github.com/philjackson/magit.git
 	branch = master
 [submodule "slime"]
 	path = slime
-	url = git://github.com/technomancy/slime.git
+	url = http://github.com/technomancy/slime.git
 [submodule "shellarchive"]
 	path = shellarchive
-	url = git://repo.or.cz/ShellArchive.git
+	url = http://repo.or.cz/r/ShellArchive.git
 [submodule "browse-kill-ring"]
 	path = browse-kill-ring
-	url = git://github.com/emacsmirror/browse-kill-ring.git
+	url = http://github.com/emacsmirror/browse-kill-ring.git
 [submodule "nopaste"]
 	path = nopaste
-	url = git://github.com/avar/nopaste.git
+	url = http://github.com/avar/nopaste.git
 	branch = master
 [submodule "clojure-mode"]
 	path = clojure-mode
-	url = git://github.com/technomancy/clojure-mode.git
+	url = http://github.com/technomancy/clojure-mode.git
 	branch = master
 [submodule "swank-clojure"]
 	path = swank-clojure
-	url = git://github.com/jochu/swank-clojure.git
+	url = http://github.com/jochu/swank-clojure.git
 [submodule "markdown-mode"]
 	path = markdown-mode
-	url = git://jblevins.org/git/markdown-mode.git
+	url = http://github.com/defunkt/markdown-mode.git
 [submodule "ibuffer-git"]
 	path = ibuffer-git
-	url = git://github.com/jrockway/ibuffer-git
+	url = http://github.com/jrockway/ibuffer-git
 [submodule "php-mode"]
 	path = php-mode
-	url = git://github.com/ieure/php-mode-el.git
+	url = http://github.com/ieure/php-mode-el.git
 [submodule "tt-mode"]
 	path = tt-mode
-	url = git://github.com/davorg/tt-mode.git
+	url = http://github.com/davorg/tt-mode.git
 [submodule "twittering-mode"]
 	path = twittering-mode
-	url = git://github.com/hayamiz/twittering-mode.git
+	url = http://github.com/hayamiz/twittering-mode.git
 	branch = master
 [submodule "window-number"]
 	path = window-number
-	url = git://github.com/emacsmirror/window-number.git
+	url = http://github.com/emacsmirror/window-number.git
 	branch = emacswiki
 [submodule "xs-mode"]
 	path = xs-mode
-	url = git://github.com/emacsmirror/xs-mode.git
+	url = http://github.com/emacsmirror/xs-mode.git
 	branch = emacswiki
 [submodule "yaml-mode"]
 	path = yaml-mode
-	url = git://github.com/yoshiki/yaml-mode.git
+	url = http://github.com/yoshiki/yaml-mode.git
 	branch = master
 [submodule "nterm"]
 	path = nterm
-	url = git://github.com/emacsmirror/nterm.git
+	url = http://github.com/emacsmirror/nterm.git
 	branch = web-import
 [submodule "clojure-contrib"]
 	path = clojure-contrib
-	url = git://github.com/richhickey/clojure-contrib.git
+	url = http://github.com/richhickey/clojure-contrib.git
 	branch = master
 [submodule "clojure"]
 	path = clojure
-	url = git://github.com/richhickey/clojure.git
+	url = http://github.com/richhickey/clojure.git
     branch = master
 [submodule "emacs_chrome"]
 	path = emacs_chrome
-	url = git://github.com/stsquad/emacs_chrome.git
+	url = http://github.com/stsquad/emacs_chrome.git
     branch = master
 [submodule "po-mode"]
 	path = po-mode
-	url = git://github.com/emacsmirror/po-mode.git
+	url = http://github.com/emacsmirror/po-mode.git
 [submodule "git-commit-mode"]
 	path = git-commit-mode
-	url = git://github.com/rafl/git-commit-mode.git
+	url = http://github.com/rafl/git-commit-mode.git
 	branch = master
 [submodule "pod-mode"]
 	path = pod-mode
-	url = git://github.com/renormalist/emacs-pod-mode.git
+	url = http://github.com/renormalist/emacs-pod-mode.git
 	branch = master
 [submodule "tap-mode"]
 	path = tap-mode
-	url = git://github.com/renormalist/emacs-tap-mode.git
+	url = http://github.com/renormalist/emacs-tap-mode.git
 	branch = master
 [submodule "perlmod"]
 	path = perlmod
-	url = git://github.com/rafl/emacs-perlmod.git
+	url = http://github.com/rafl/emacs-perlmod.git
 	branch = master
 [submodule "clhs"]
 	path = clhs
-	url = git://github.com/emacsmirror/clhs.git
+	url = http://github.com/emacsmirror/clhs.git
 [submodule "htmlize"]
 	path = htmlize
-	url = git://github.com/emacsmirror/htmlize.git
+	url = http://github.com/emacsmirror/htmlize.git
     branch = web-import
 [submodule "lua-mode"]
 	path = lua-mode
-	url = git://github.com/emacsmirror/lua-mode.git
+	url = http://github.com/emacsmirror/lua-mode.git
 [submodule "visible-mark"]
 	path = visible-mark
-	url = git://github.com/emacsmirror/visible-mark.git
+	url = http://github.com/emacsmirror/visible-mark.git
 [submodule "org-mode"]
 	path = org-mode
-	url = git://repo.or.cz/org-mode.git
+	url = http://repo.or.cz/r/org-mode.git
