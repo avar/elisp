@@ -112,3 +112,6 @@
 [submodule "org-mode"]
 	path = org-mode
 	url = http://repo.or.cz/r/org-mode.git
+[submodule "undo-tree"]
+	path = undo-tree
+	url = http://github.com/emacsmirror/undo-tree.git
