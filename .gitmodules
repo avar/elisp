@@ -111,7 +111,7 @@
 	url = http://github.com/emacsmirror/visible-mark.git
 [submodule "org-mode"]
 	path = org-mode
-	url = http://repo.or.cz/r/org-mode.git
+	url = http://github.com/emacsmirror/org-mode.git
 [submodule "undo-tree"]
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
