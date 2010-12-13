@@ -115,3 +115,4 @@
 [submodule "undo-tree"]
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
+    branch = master
