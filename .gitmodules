@@ -52,11 +52,11 @@
 [submodule "window-number"]
 	path = window-number
 	url = http://github.com/emacsmirror/window-number.git
-	branch = emacswiki
+	branch = master
 [submodule "xs-mode"]
 	path = xs-mode
 	url = http://github.com/emacsmirror/xs-mode.git
-	branch = emacswiki
+	branch = master
 [submodule "yaml-mode"]
 	path = yaml-mode
 	url = http://github.com/yoshiki/yaml-mode.git
@@ -64,7 +64,7 @@
 [submodule "nterm"]
 	path = nterm
 	url = http://github.com/emacsmirror/nterm.git
-	branch = web-import
+	branch = master
 [submodule "clojure-contrib"]
 	path = clojure-contrib
 	url = http://github.com/richhickey/clojure-contrib.git
@@ -80,6 +80,7 @@
 [submodule "po-mode"]
 	path = po-mode
 	url = http://github.com/emacsmirror/po-mode.git
+    branch = master
 [submodule "git-commit-mode"]
 	path = git-commit-mode
 	url = http://github.com/rafl/git-commit-mode.git
@@ -99,16 +100,18 @@
 [submodule "clhs"]
 	path = clhs
 	url = http://github.com/emacsmirror/clhs.git
+    branch = master
 [submodule "htmlize"]
 	path = htmlize
 	url = http://github.com/emacsmirror/htmlize.git
-    branch = web-import
+    branch = master
 [submodule "lua-mode"]
 	path = lua-mode
 	url = http://github.com/emacsmirror/lua-mode.git
 [submodule "visible-mark"]
 	path = visible-mark
 	url = http://github.com/emacsmirror/visible-mark.git
+    branch = master
 [submodule "org-mode"]
 	path = org-mode
 	url = http://github.com/emacsmirror/org-mode.git
