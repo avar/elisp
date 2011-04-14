@@ -120,3 +120,7 @@
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
     branch = master
+[submodule "color-theme"]
+	path = color-theme
+	url = https://github.com/emacsmirror/color-theme.git
+	branch = master
