@@ -22,6 +22,7 @@
 [submodule "browse-kill-ring"]
 	path = browse-kill-ring
 	url = http://github.com/emacsmirror/browse-kill-ring.git
+    branch = master
 [submodule "nopaste"]
 	path = nopaste
 	url = http://github.com/avar/nopaste.git
@@ -33,6 +34,7 @@
 [submodule "swank-clojure"]
 	path = swank-clojure
 	url = http://github.com/jochu/swank-clojure.git
+    branch = master
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = http://github.com/defunkt/markdown-mode.git
