@@ -110,6 +110,7 @@
 [submodule "lua-mode"]
 	path = lua-mode
 	url = http://github.com/emacsmirror/lua-mode.git
+	branch = master
 [submodule "visible-mark"]
 	path = visible-mark
 	url = http://github.com/emacsmirror/visible-mark.git
