@@ -123,3 +123,7 @@
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
     branch = master
+[submodule "anything"]
+	path = anything
+	url = https://github.com/emacsmirror/anything
+	branch = master
