@@ -38,6 +38,7 @@
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = http://github.com/defunkt/markdown-mode.git
+    branch = master
 [submodule "ibuffer-git"]
 	path = ibuffer-git
 	url = http://github.com/jrockway/ibuffer-git.git
