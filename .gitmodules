@@ -124,3 +124,6 @@
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
     branch = master
+[submodule "puppet-syntax-emacs"]
+	path = puppet-syntax-emacs
+	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
