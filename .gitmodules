@@ -64,10 +64,6 @@
 	path = yaml-mode
 	url = http://github.com/yoshiki/yaml-mode.git
 	branch = master
-[submodule "nterm"]
-	path = nterm
-	url = http://github.com/emacsmirror/nterm.git
-	branch = master
 [submodule "clojure-contrib"]
 	path = clojure-contrib
 	url = http://github.com/richhickey/clojure-contrib.git
