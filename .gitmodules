@@ -125,5 +125,5 @@
 	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
 [submodule "git-modes"]
 	path = git-modes
-	url = https://github.com/magit/git-modes.git
+	url = https://github.com/magit/magit.git
 	branch = master
