@@ -11,7 +11,7 @@
 	url = http://github.com/jrockway/eslide.git
 [submodule "magit"]
 	path = magit
-	url = https://github.com/avar/magit.git
+	url = https://github.com/magit/magit.git
 	branch = master
 [submodule "slime"]
 	path = slime
@@ -125,5 +125,5 @@
 	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
 [submodule "git-modes"]
 	path = git-modes
-	url = https://github.com/magit/magit.git
+	url = https://github.com/magit/git-modes.git
 	branch = master
