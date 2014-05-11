@@ -1,7 +1,7 @@
 [submodule "cperl-mode"]
 	path = cperl-mode
 	url = http://github.com/jrockway/cperl-mode.git
-	branch = mx-declare
+	branch = master
 [submodule "eproject"]
 	path = eproject
 	url = http://github.com/jrockway/eproject.git
