@@ -127,3 +127,6 @@
 	path = git-modes
 	url = https://github.com/magit/git-modes.git
 	branch = master
+[submodule "dash"]
+	path = dash
+	url = https://github.com/magnars/dash.el.git
