@@ -133,3 +133,6 @@
 [submodule "mu"]
 	path = mu
 	url = https://github.com/djcb/mu.git
+[submodule "org-present"]
+	path = org-present
+	url = https://github.com/rlister/org-present.git
