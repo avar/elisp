@@ -106,7 +106,7 @@
     branch = master
 [submodule "org-mode"]
 	path = org-mode
-	url = http://github.com/emacsmirror/org.git
+	url = git://orgmode.org/org-mode.git
 	branch = master
 [submodule "undo-tree"]
 	path = undo-tree
