@@ -76,10 +76,6 @@
 	path = emacs_chrome
 	url = http://github.com/stsquad/emacs_chrome.git
     branch = master
-[submodule "po-mode"]
-	path = po-mode
-	url = http://github.com/emacsmirror/po-mode.git
-    branch = master
 [submodule "git-commit-mode"]
 	path = git-commit-mode
 	url = http://github.com/rafl/git-commit-mode.git
