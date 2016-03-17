@@ -96,10 +96,6 @@
 	path = perlmod
 	url = http://github.com/rafl/emacs-perlmod.git
 	branch = master
-[submodule "clhs"]
-	path = clhs
-	url = http://github.com/emacsmirror/clhs.git
-    branch = master
 [submodule "htmlize"]
 	path = htmlize
 	url = http://github.com/emacsmirror/htmlize.git
