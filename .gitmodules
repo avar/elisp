@@ -128,3 +128,6 @@
 [submodule "org-present"]
 	path = org-present
 	url = https://github.com/rlister/org-present.git
+[submodule "with-editor"]
+	path = with-editor
+	url = https://github.com/magit/with-editor.git
