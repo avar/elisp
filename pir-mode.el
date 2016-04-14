@@ -1111,7 +1111,7 @@ entered without parens)."
   (if pir-completion-alist
       ()
     (setq pir-completion-alist
-	  (mapcar '(lambda (var) (cons var var))
+	  (mapcar #'(lambda (var) (cons var var))
 		  (append pir-PMC-keyword-symbols
 			  pir-ops pir-dotted-directives
 			  pir-variable-declarations)))))
