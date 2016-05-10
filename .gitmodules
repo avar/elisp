@@ -131,3 +131,6 @@
 [submodule "with-editor"]
 	path = with-editor
 	url = https://github.com/magit/with-editor.git
+[submodule "got-mode.el"]
+	path = got-mode.el
+	url = https://github.com/dominikh/go-mode.el.git
