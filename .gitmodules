@@ -122,6 +122,7 @@
 [submodule "dash"]
 	path = dash
 	url = https://github.com/magnars/dash.el.git
+    branch = master
 [submodule "mu"]
 	path = mu
 	url = https://github.com/djcb/mu.git
