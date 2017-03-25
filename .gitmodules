@@ -5,7 +5,7 @@
 [submodule "eproject"]
 	path = eproject
 	url = http://github.com/jrockway/eproject.git
-    branch = master
+	branch = master
 [submodule "eslide"]
 	path = eslide
 	url = http://github.com/jrockway/eslide.git
@@ -22,7 +22,7 @@
 [submodule "browse-kill-ring"]
 	path = browse-kill-ring
 	url = http://github.com/emacsmirror/browse-kill-ring.git
-    branch = master
+	branch = master
 [submodule "nopaste"]
 	path = nopaste
 	url = http://github.com/avar/nopaste.git
@@ -34,11 +34,11 @@
 [submodule "swank-clojure"]
 	path = swank-clojure
 	url = http://github.com/jochu/swank-clojure.git
-    branch = master
+	branch = master
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = http://github.com/defunkt/markdown-mode.git
-    branch = master
+	branch = master
 [submodule "ibuffer-git"]
 	path = ibuffer-git
 	url = http://github.com/jrockway/ibuffer-git.git
@@ -71,11 +71,11 @@
 [submodule "clojure"]
 	path = clojure
 	url = http://github.com/richhickey/clojure.git
-    branch = master
+	branch = master
 [submodule "emacs_chrome"]
 	path = emacs_chrome
 	url = http://github.com/stsquad/emacs_chrome.git
-    branch = master
+	branch = master
 [submodule "git-commit-mode"]
 	path = git-commit-mode
 	url = http://github.com/rafl/git-commit-mode.git
@@ -95,7 +95,7 @@
 [submodule "htmlize"]
 	path = htmlize
 	url = http://github.com/emacsmirror/htmlize.git
-    branch = master
+	branch = master
 [submodule "lua-mode"]
 	path = lua-mode
 	url = http://github.com/emacsmirror/lua-mode.git
@@ -103,7 +103,7 @@
 [submodule "visible-mark"]
 	path = visible-mark
 	url = http://github.com/emacsmirror/visible-mark.git
-    branch = master
+	branch = master
 [submodule "org-mode"]
 	path = org-mode
 	url = git://orgmode.org/org-mode.git
@@ -111,7 +111,7 @@
 [submodule "undo-tree"]
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
-    branch = master
+	branch = master
 [submodule "puppet-syntax-emacs"]
 	path = puppet-syntax-emacs
 	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
@@ -122,13 +122,15 @@
 [submodule "dash"]
 	path = dash
 	url = https://github.com/magnars/dash.el.git
-    branch = master
+	branch = master
 [submodule "mu"]
 	path = mu
 	url = https://github.com/djcb/mu.git
+	branch = master
 [submodule "org-present"]
 	path = org-present
 	url = https://github.com/rlister/org-present.git
+	branch = master
 [submodule "with-editor"]
 	path = with-editor
 	url = https://github.com/magit/with-editor.git
@@ -136,6 +138,8 @@
 [submodule "go-mode.el"]
 	path = go-mode.el
 	url = https://github.com/dominikh/go-mode.el.git
+	branch = master
 [submodule "perl6-mode"]
 	path = perl6-mode
 	url = https://github.com/hinrik/perl6-mode.git
+	branch = master
