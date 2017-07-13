@@ -1,145 +1,183 @@
 [submodule "cperl-mode"]
 	path = cperl-mode
 	url = http://github.com/jrockway/cperl-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "eproject"]
 	path = eproject
 	url = http://github.com/jrockway/eproject.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "eslide"]
 	path = eslide
 	url = http://github.com/jrockway/eslide.git
+	fetchRecurseSubmodules = true
 [submodule "magit"]
 	path = magit
 	url = https://github.com/magit/magit.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "slime"]
 	path = slime
 	url = http://github.com/technomancy/slime.git
+	fetchRecurseSubmodules = true
 [submodule "shellarchive"]
 	path = shellarchive
 	url = http://repo.or.cz/r/ShellArchive.git
+	fetchRecurseSubmodules = true
 [submodule "browse-kill-ring"]
 	path = browse-kill-ring
 	url = http://github.com/emacsmirror/browse-kill-ring.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "nopaste"]
 	path = nopaste
 	url = http://github.com/avar/nopaste.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "clojure-mode"]
 	path = clojure-mode
 	url = http://github.com/technomancy/clojure-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "swank-clojure"]
 	path = swank-clojure
 	url = http://github.com/jochu/swank-clojure.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "markdown-mode"]
 	path = markdown-mode
 	url = http://github.com/defunkt/markdown-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "ibuffer-git"]
 	path = ibuffer-git
 	url = http://github.com/jrockway/ibuffer-git.git
+	fetchRecurseSubmodules = true
 [submodule "php-mode"]
 	path = php-mode
 	url = http://github.com/ieure/php-mode-el.git
+	fetchRecurseSubmodules = true
 [submodule "tt-mode"]
 	path = tt-mode
 	url = http://github.com/davorg/tt-mode.git
+	fetchRecurseSubmodules = true
 [submodule "twittering-mode"]
 	path = twittering-mode
 	url = http://github.com/hayamiz/twittering-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "window-number"]
 	path = window-number
 	url = http://github.com/emacsmirror/window-number.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "xs-mode"]
 	path = xs-mode
 	url = http://github.com/emacsmirror/xs-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "yaml-mode"]
 	path = yaml-mode
 	url = http://github.com/yoshiki/yaml-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "clojure-contrib"]
 	path = clojure-contrib
 	url = http://github.com/richhickey/clojure-contrib.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "clojure"]
 	path = clojure
 	url = http://github.com/richhickey/clojure.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "emacs_chrome"]
 	path = emacs_chrome
 	url = http://github.com/stsquad/emacs_chrome.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "git-commit-mode"]
 	path = git-commit-mode
 	url = http://github.com/rafl/git-commit-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "pod-mode"]
 	path = pod-mode
 	url = http://github.com/renormalist/emacs-pod-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "tap-mode"]
 	path = tap-mode
 	url = http://github.com/renormalist/emacs-tap-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "perlmod"]
 	path = perlmod
 	url = http://github.com/rafl/emacs-perlmod.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "htmlize"]
 	path = htmlize
 	url = http://github.com/emacsmirror/htmlize.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "lua-mode"]
 	path = lua-mode
 	url = http://github.com/emacsmirror/lua-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "visible-mark"]
 	path = visible-mark
 	url = http://github.com/emacsmirror/visible-mark.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "org-mode"]
 	path = org-mode
 	url = git://orgmode.org/org-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "undo-tree"]
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "puppet-syntax-emacs"]
 	path = puppet-syntax-emacs
 	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
+	fetchRecurseSubmodules = true
 [submodule "git-modes"]
 	path = git-modes
 	url = https://github.com/magit/git-modes.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "dash"]
 	path = dash
 	url = https://github.com/magnars/dash.el.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "mu"]
 	path = mu
 	url = https://github.com/djcb/mu.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "org-present"]
 	path = org-present
 	url = https://github.com/rlister/org-present.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "with-editor"]
 	path = with-editor
 	url = https://github.com/magit/with-editor.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "go-mode.el"]
 	path = go-mode.el
 	url = https://github.com/dominikh/go-mode.el.git
+	fetchRecurseSubmodules = true
 	branch = master
 [submodule "perl6-mode"]
 	path = perl6-mode
 	url = https://github.com/hinrik/perl6-mode.git
+	fetchRecurseSubmodules = true
 	branch = master
