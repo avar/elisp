@@ -134,7 +134,7 @@
 	branch = master
 [submodule "org-mode"]
 	path = org-mode
-	url = git://orgmode.org/org-mode.git
+	url = https://github.com/abo-abo/org-mode.git
 	fetchRecurseSubmodules = true
 	branch = master
 [submodule "undo-tree"]
