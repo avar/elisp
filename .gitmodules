@@ -187,3 +187,9 @@
 [submodule "s.el"]
 	path = s.el
 	url = https://github.com/magnars/s.el.git
+[submodule "magit-popup"]
+	path = magit-popup
+	url = https://github.com/magit/magit-popup.git
+[submodule "ghub"]
+	path = ghub
+	url = https://github.com/magit/ghub.git
