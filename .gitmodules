@@ -181,3 +181,9 @@
 	url = https://github.com/hinrik/perl6-mode.git
 	fetchRecurseSubmodules = true
 	branch = master
+[submodule "dockerfile-mode"]
+	path = dockerfile-mode
+	url = https://github.com/spotify/dockerfile-mode.git
+[submodule "s.el"]
+	path = s.el
+	url = https://github.com/magnars/s.el.git
