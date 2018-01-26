@@ -19,8 +19,9 @@
 	branch = master
 [submodule "slime"]
 	path = slime
-	url = http://github.com/technomancy/slime.git
+	url = https://github.com/slime/slime.git
 	fetchRecurseSubmodules = true
+	branch = master
 [submodule "shellarchive"]
 	path = shellarchive
 	url = http://repo.or.cz/r/ShellArchive.git
@@ -136,7 +137,7 @@
 	path = org-mode
 	url = https://github.com/abo-abo/org-mode.git
 	fetchRecurseSubmodules = true
-	branch = master
+	branch = mirror
 [submodule "undo-tree"]
 	path = undo-tree
 	url = http://github.com/emacsmirror/undo-tree.git
@@ -175,7 +176,7 @@
 	path = go-mode.el
 	url = https://github.com/dominikh/go-mode.el.git
 	fetchRecurseSubmodules = true
-	branch = master
+ 	branch = master
 [submodule "perl6-mode"]
 	path = perl6-mode
 	url = https://github.com/hinrik/perl6-mode.git
@@ -184,12 +185,16 @@
 [submodule "dockerfile-mode"]
 	path = dockerfile-mode
 	url = https://github.com/spotify/dockerfile-mode.git
+ 	branch = master
 [submodule "s.el"]
 	path = s.el
 	url = https://github.com/magnars/s.el.git
+ 	branch = master
 [submodule "magit-popup"]
 	path = magit-popup
 	url = https://github.com/magit/magit-popup.git
+ 	branch = master
 [submodule "ghub"]
 	path = ghub
 	url = https://github.com/magit/ghub.git
+ 	branch = master
