@@ -194,7 +194,3 @@
 	path = magit-popup
 	url = https://github.com/magit/magit-popup.git
  	branch = master
-[submodule "ghub"]
-	path = ghub
-	url = https://github.com/magit/ghub.git
- 	branch = master
