@@ -197,6 +197,6 @@
 [submodule "transient"]
 	path = transient
 	url = https://github.com/magit/transient.git
-[submodule "lv"]
-	path = lv
-	url = https://github.com/llvilanova/lv.git
+[submodule "hydra"]
+	path = hydra
+	url = https://github.com/abo-abo/hydra.git
