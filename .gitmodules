@@ -194,3 +194,9 @@
 	path = magit-popup
 	url = https://github.com/magit/magit-popup.git
  	branch = master
+[submodule "transient"]
+	path = transient
+	url = https://github.com/magit/transient.git
+[submodule "lv"]
+	path = lv
+	url = https://github.com/llvilanova/lv.git
