@@ -22,10 +22,6 @@
 	url = https://github.com/slime/slime.git
 	fetchRecurseSubmodules = true
 	branch = master
-[submodule "shellarchive"]
-	path = shellarchive
-	url = https://repo.or.cz/r/ShellArchive.git
-	fetchRecurseSubmodules = true
 [submodule "browse-kill-ring"]
 	path = browse-kill-ring
 	url = https://github.com/emacsmirror/browse-kill-ring.git
