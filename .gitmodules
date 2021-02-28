@@ -198,3 +198,6 @@
 	path = hydra
 	url = https://github.com/abo-abo/hydra.git
 	branch = master
+[submodule "queue"]
+	path = queue
+	url = https://github.com/emacs-straight/queue.git
