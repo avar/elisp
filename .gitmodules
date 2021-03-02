@@ -205,3 +205,6 @@
 [submodule "queue"]
 	path = queue
 	url = https://github.com/emacs-straight/queue.git
+[submodule "projectile"]
+	path = projectile
+	url = https://github.com/bbatsov/projectile.git
