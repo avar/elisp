@@ -17,11 +17,6 @@
 	url = https://github.com/magit/magit.git
 	fetchRecurseSubmodules = true
 	branch = master
-[submodule "slime"]
-	path = slime
-	url = https://github.com/slime/slime.git
-	fetchRecurseSubmodules = true
-	branch = master
 [submodule "shellarchive"]
 	path = shellarchive
 	url = https://repo.or.cz/r/ShellArchive.git
@@ -143,10 +138,6 @@
 	url = https://github.com/emacsmirror/undo-tree.git
 	fetchRecurseSubmodules = true
 	branch = master
-[submodule "puppet-syntax-emacs"]
-	path = puppet-syntax-emacs
-	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
-	fetchRecurseSubmodules = true
 [submodule "git-modes"]
 	path = git-modes
 	url = https://github.com/magit/git-modes.git
