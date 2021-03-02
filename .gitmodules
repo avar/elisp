@@ -1,17 +1,8 @@
-[submodule "cperl-mode"]
-	path = cperl-mode
-	url = https://github.com/jrockway/cperl-mode.git
-	fetchRecurseSubmodules = true
-	branch = master
 [submodule "eproject"]
 	path = eproject
 	url = https://github.com/jrockway/eproject.git
 	fetchRecurseSubmodules = true
 	branch = master
-[submodule "eslide"]
-	path = eslide
-	url = https://github.com/jrockway/eslide.git
-	fetchRecurseSubmodules = true
 [submodule "magit"]
 	path = magit
 	url = https://github.com/magit/magit.git
@@ -58,11 +49,6 @@
 	path = tt-mode
 	url = https://github.com/davorg/tt-mode.git
 	fetchRecurseSubmodules = true
-[submodule "twittering-mode"]
-	path = twittering-mode
-	url = https://github.com/hayamiz/twittering-mode.git
-	fetchRecurseSubmodules = true
-	branch = master
 [submodule "window-number"]
 	path = window-number
 	url = https://github.com/emacsmirror/window-number.git
