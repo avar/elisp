@@ -41,10 +41,6 @@
 	path = ibuffer-git
 	url = https://github.com/jrockway/ibuffer-git.git
 	fetchRecurseSubmodules = true
-[submodule "php-mode"]
-	path = php-mode
-	url = https://github.com/ieure/php-mode-el.git
-	fetchRecurseSubmodules = true
 [submodule "tt-mode"]
 	path = tt-mode
 	url = https://github.com/davorg/tt-mode.git
